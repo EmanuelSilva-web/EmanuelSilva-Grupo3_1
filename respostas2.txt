@@ -1,0 +1,3 @@
+F. O ReadMe serve para as pessoas que estão interessadas no repositório consigam compreende-lo
+
+G. O merge serve para enviar juntar todas as alterações feitas numa branch para outra, normalmente de uma branch criada para a master.
