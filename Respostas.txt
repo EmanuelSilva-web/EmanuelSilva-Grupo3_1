@@ -1,5 +1,10 @@
 Diga 2 vantagens dos Sistemas de controlo de Versoes e descreva-as
 R:
-Os sistemas de controlo de versõe guardam um registo detalhado de todas as modificações feitas ao longo do tempo.
+1-Os sistemas de controlo de versõe guardam um registo detalhado de todas as modificações feitas ao longo do tempo.
+2-Trabalho colaborativo eficiente
 
-Trabalho colaborativo eficiente
+No git quais os 3 estados em que pode estar um ficheiro/directorio
+R:
+Untracked
+Modified
+Staged
