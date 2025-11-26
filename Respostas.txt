@@ -10,3 +10,5 @@ Modified
 Staged
 
 H. O comando é o git fetch
+
+J. Este comando faz com que eu consiga ver todas a informações sobre o ficheiro commited, ou seja, quando foi e o que foi dito na mensagem do commit
