@@ -8,3 +8,5 @@ R:
 Untracked
 Modified
 Staged
+
+H. O comando é o git fetch
