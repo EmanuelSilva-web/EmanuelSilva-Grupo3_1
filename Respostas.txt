@@ -1,0 +1,5 @@
+Diga 2 vantagens dos Sistemas de controlo de Versoes e descreva-as
+R:
+Os sistemas de controlo de versõe guardam um registo detalhado de todas as modificações feitas ao longo do tempo.
+
+Trabalho colaborativo eficiente
